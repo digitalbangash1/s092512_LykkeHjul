@@ -27,9 +27,7 @@ letter.
 12. The game is lost when the user has no lives left and the word has not been found. 
 13. A user starts with 5 “lives”. 
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
 
 ## Features implemented
 
